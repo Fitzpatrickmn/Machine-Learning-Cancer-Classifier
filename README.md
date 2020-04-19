@@ -4,6 +4,7 @@ Using Machine Learning for Diagnostics
 
 Data Sets: 
 Numeric Values https://www.kaggle.com/uciml/breast-cancer-wisconsin-data
+
 Images https://www.kaggle.com/paultimothymooney/breast-histopathology-images
 
 The aim of this project is to compare machine learning models on numeric data vs images, to decide which tool has the highest accuracy in automated cancer classification. 
