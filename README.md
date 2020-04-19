@@ -2,7 +2,8 @@
 
 Using Machine Learning for Diagnostics 
 
-Data Sets: 
+Data Sets:
+
 Numeric Values https://www.kaggle.com/uciml/breast-cancer-wisconsin-data
 
 Images https://www.kaggle.com/paultimothymooney/breast-histopathology-images
