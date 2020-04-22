@@ -14,4 +14,4 @@ For the image analysis of a Invasive Ductal Carcinoma (IDC), the goal was to cre
 
 For the numerical data, gathered through an analysis of a Fine Needle Aspiration (FNA) of a breast masses, the predictor category is benign versus malignant, based on features such as the cell area, smoothness, texture, etc.
 
-Currently, our numeric data classifier has an accuracy of ~96% and our image classifier has an accuracy of 85%. 
+Currently, our numeric data classifier has an accuracy of ~96% (CSV Model) and our image classifier (Grayscale Model) has an accuracy of 85%. 
